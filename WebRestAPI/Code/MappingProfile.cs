@@ -2,7 +2,7 @@ using System;
 using AutoMapper;
 // DO NOT FORGET TO UNCOMMENT THIS LINE
 
-//using WebRest.EF.Models;
+using WebRest.EF.Models;
 
 namespace WebRestAPI.Code;
 
